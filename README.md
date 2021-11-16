@@ -6,7 +6,7 @@ These stand for Forward, Back, Left, and Right. This was done as an exercise pos
 
 ## Features / Usage
 
-1.It presents a familiar GUI that allows you to select a .txt file containing directions (UDLF) from the File menu and then if you want, you can start the journey right away, or adjust the speed (Laziness) first. (Laziness an be adjusted at any time)
+1. It presents a familiar GUI that allows you to select a .txt file containing directions (UDLF) from the File menu and then if you want, you can start the journey right away, or adjust the speed (Laziness) first. (Laziness an be adjusted at any time)
 
 2. The name of the directions.txt file will be shown below and the turtle will use these directions to move around a grid on a highlighted path.
 
